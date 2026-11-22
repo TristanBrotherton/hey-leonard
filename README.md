@@ -2,6 +2,8 @@
 
 **The ultimate assistant. Designed voice-first.**
 
+[heyleonard.ai](https://heyleonard.ai)
+
 I spent decades behind a keyboard. Hey Leonard is how I'm leaving it behind: an assistant you talk to, not an app you have to open. It's built by one person, in public, and it's open source. Most of it was built by talking to it.
 
 - **Everywhere you are.** Voice PE speakers running its own firmware, its own phone number, iMessage, and the Claude and ChatGPT voice apps you already use. Same assistant, same memory, whichever you pick.
